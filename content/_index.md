@@ -7,8 +7,12 @@ sections:
     title: Welcome to Lulu's Lemons
     section_id: hero
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      When life gives you lemons... *I don't really know to be honest!* So
+      that's where this site comes in. It's niche and broad in equal measures,
+      but follow me as I talk about books, wellbeing, travel and general life!
+
+
+      L|C
   - type: section_content
     template: section_content
     title: About
