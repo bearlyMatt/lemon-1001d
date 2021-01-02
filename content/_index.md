@@ -18,10 +18,13 @@ sections:
     title: About
     section_id: about
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Leonie is the best person in the whole world (according to her S/O). She's
+      a Bachelor of Music and is currently working her way to a PGDE in
+      Secondary Music teaching. She's spent over 8 years in retail and to be
+      frank, is done with it - it's not as glamourous as it may (or may not)
+      seem. She is the beloved cat-mother of two delightful felines, and lives
+      in Scotland with her significant other - a website's worth of material in
+      of itself.
     actions:
       - type: action
         template: action
