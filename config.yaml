@@ -2,7 +2,7 @@ title: Lulu's Lemons
 baseURL: /
 params:
   description: Personal blogging theme for Stackbit
-  layout_style: simple
+  layout_style: overflow
   palette: violet
   header:
     type: header
