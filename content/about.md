@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: Say Hi!
 img_path: /images/avatar.jpg
 layout: page
 ---
