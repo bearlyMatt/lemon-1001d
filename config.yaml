@@ -10,7 +10,7 @@ params:
     title: Lulu's Lemons
     tagline: When Life Gives you Lemons....
     profile_img: /images/lemon_w.svg
-    background: light
+    background: dark
     has_nav: true
     nav_links:
       - type: action
