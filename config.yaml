@@ -38,7 +38,7 @@ params:
         label: Contact
         url: /contact/
         style: link
-        icon_class: fa-
+        icon_class: fa-plane
     has_social: true
     social_links:
       - type: action
