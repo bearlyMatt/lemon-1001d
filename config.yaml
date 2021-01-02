@@ -9,7 +9,7 @@ params:
     template: header
     title: Lulu's Lemons
     tagline: When Life Gives you Lemons....
-    profile_img: /images/lemon.svg
+    profile_img: /images/lemon_w.svg
     background: dark
     has_nav: true
     nav_links:
