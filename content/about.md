@@ -5,12 +5,12 @@ img_path: /images/avatar.jpg
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Leonie Clark** is a full-time student from [Edinburgh](https://en.wikipedia.org/wiki/Edinburgh), Scotland. After graduating from The University of Aberdeen with a degree in Music, she moved to Edinburgh to pursue a career in Secondary Music Teaching.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+She has a prolific output of community work, and is known to perform regularly for charity functions. 
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+As a hobby, Leonie is a great advocate in journaling, and can often be found creating new planners. She continuously learns new instruments and is currently learning drumkit and acoustic guitar. If the time is just right, you might catch her with her nose in a good book, or trying to get through her never-ending Netflix watchlist.
 
 *Thank You for reading!*
